@@ -22,6 +22,9 @@
 
 ## 멘토 자경단원에게
 
+> [!TIP]
+> GitHub은 스크린리더(VoiceOver/NVDA/내레이터)를 비교적 잘 지원합니다. 학습자가 처음이면 [`GITHUB-GUIDE.md`](../GITHUB-GUIDE.md) §1~5(읽기·issue까지)부터 안내. 키보드만으로 거의 모든 작업 가능.
+
 - 본인이 잘 모르는 보조기기 사용자에게 "이렇게 해보세요"는 위험합니다. 학습자의 워크플로우를 먼저 듣고.
 - 접근성은 **새끼고양이의 권리**입니다. 시혜가 아닙니다 ([`MANIFESTO`](https://github.com/catguard-team/manifesto/blob/main/MANIFESTO.md)).
 - 외부 자료는 한국어 우선이지만, 영어가 더 풍부한 영역입니다. 양쪽 다 안내.

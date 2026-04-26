@@ -24,9 +24,12 @@
 
 ## 보호자·교사에게
 
-- 어린이 자경단원의 **개인정보(실명·학교·주소)** 를 PR이나 issue에 적지 마세요. 닉네임만.
+> [!TIP]
+> 어린이가 GitHub 처음 쓰면 [`GITHUB-GUIDE.md`](../GITHUB-GUIDE.md)를 함께 읽어보세요. 회원가입·2FA·issue·첫 PR까지 단계별로 안내합니다.
+
+- 어린이 자경단원의 **개인정보(실명·학교·주소)** 를 PR이나 issue에 적지 마세요. 닉네임만. → [GITHUB-GUIDE §2](../GITHUB-GUIDE.md#2-2-가입-단계)
 - 디스코드는 **만 13세 이상**만 가능. 그 이하 어린이는 보호자가 동석한 자리에서만.
-- 결과물(첫 쥐돌이) 공개 전에 보호자 동의를 받습니다. 자경단은 [`SAFETY.md`](https://github.com/catguard-team/manifesto/blob/main/SAFETY.md) 정책 준수.
+- 결과물(첫 쥐돌이) 공개 전에 보호자 동의를 받습니다. → [`SAFETY-NOTES §3-2`](../SAFETY-NOTES.md#3-2-결과물-공개-전-핵심)
 
 ## 멘토 자경단원에게
 
