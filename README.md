@@ -35,6 +35,7 @@
 - **RTFM 금지.** "문서 읽으세요"는 답이 아닙니다. 어떤 문서, 어디부터, 왜 그 부분인지 알려주세요.
 - **새끼고양이의 첫 질문은 항상 옳다.** 비웃지 마세요. 본인도 한 번은 모르는 사람이었습니다.
 - **개인정보 절대 받지 않기.** 실명·주소·학교·연락처 받지 마세요. [`manifesto/SAFETY.md`](https://github.com/catguard-team/manifesto/blob/main/SAFETY.md).
+- **공개 동의는 작성 동의와 별개.** 미성년자·결정 보조 필요 학습자의 결과물 공개 전 보호자 동의 한 번 더. → [`SAFETY-NOTES.md`](./SAFETY-NOTES.md)
 
 ---
 
