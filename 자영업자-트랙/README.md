@@ -6,13 +6,13 @@
 
 | 챕터 | 제목 | 상태 |
 |------|------|------|
-| 0 | 준비물 | 미작성 |
-| 1 | 카드매출 자료 한 번에 받기 (홈택스) | 미작성 |
-| 2 | 세무사 없이 부가세 신고 견적 보기 | 미작성 |
-| 3 | 가게 구글지도 등록 (네이버 플레이스 + Google Business) | 미작성 |
-| 4 | 손님 리뷰 답글 자동화하지 말기 (왜 그러면 안 되는지) | 미작성 |
-| 5 | 영수증 사진 OCR로 정리 | 미작성 |
-| 6 | 휴무 공지 SNS 한 번에 올리기 | 미작성 |
+| 0 | 준비물 | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EC%9E%90%EC%98%81%5D+00+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
+| 1 | 카드매출 자료 한 번에 받기 (홈택스) | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EC%9E%90%EC%98%81%5D+01+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
+| 2 | 세무사 없이 부가세 신고 견적 보기 | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EC%9E%90%EC%98%81%5D+02+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
+| 3 | 가게 구글지도 등록 (네이버 플레이스 + Google Business) | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EC%9E%90%EC%98%81%5D+03+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
+| 4 | 손님 리뷰 답글 자동화하지 말기 (왜 그러면 안 되는지) | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EC%9E%90%EC%98%81%5D+04+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
+| 5 | 영수증 사진 OCR로 정리 | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EC%9E%90%EC%98%81%5D+05+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
+| 6 | 휴무 공지 SNS 한 번에 올리기 | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EC%9E%90%EC%98%81%5D+06+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
 
 ## 학습 원칙
 

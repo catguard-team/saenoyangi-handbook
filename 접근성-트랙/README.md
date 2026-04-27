@@ -6,13 +6,13 @@
 
 | 챕터 | 제목 | 상태 |
 |------|------|------|
-| 0 | 준비물 — 본인의 보조기기 점검 | 미작성 |
-| 1 | macOS·Windows 화면읽기 (VoiceOver / 내레이터) 켜기 | 미작성 |
-| 2 | 한 손 키보드 / 음성 코딩 (talon, Cursorless) 입문 | 미작성 |
-| 3 | 큰 글씨 + 고대비 화면 셋업 | 미작성 |
-| 4 | 자막 자동 생성 도구로 강의 영상 보기 | 미작성 |
-| 5 | 내가 만든 웹사이트 접근성 점수 매기기 | 미작성 |
-| 6 | 접근성 자체를 첫 쥐돌이로 만들기 (이슈 발견 → PR) | 미작성 |
+| 0 | 준비물 — 본인의 보조기기 점검 | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EC%A0%91%EA%B7%BC%EC%84%B1%5D+00+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
+| 1 | macOS·Windows 화면읽기 (VoiceOver / 내레이터) 켜기 | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EC%A0%91%EA%B7%BC%EC%84%B1%5D+01+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
+| 2 | 한 손 키보드 / 음성 코딩 (talon, Cursorless) 입문 | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EC%A0%91%EA%B7%BC%EC%84%B1%5D+02+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
+| 3 | 큰 글씨 + 고대비 화면 셋업 | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EC%A0%91%EA%B7%BC%EC%84%B1%5D+03+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
+| 4 | 자막 자동 생성 도구로 강의 영상 보기 | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EC%A0%91%EA%B7%BC%EC%84%B1%5D+04+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
+| 5 | 내가 만든 웹사이트 접근성 점수 매기기 | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EC%A0%91%EA%B7%BC%EC%84%B1%5D+05+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
+| 6 | 접근성 자체를 첫 쥐돌이로 만들기 (이슈 발견 → PR) | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EC%A0%91%EA%B7%BC%EC%84%B1%5D+06+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
 
 ## 학습 원칙
 
