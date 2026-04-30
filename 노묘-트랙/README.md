@@ -8,15 +8,15 @@
 
 | 챕터 | 제목 | 상태 |
 |------|------|------|
-| 0 | [준비물](./00-준비물.md) | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EB%85%B8%EB%AC%98%5D+00+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
-| 1 | [컴퓨터 처음 켜기와 끌기](./01-처음-켜기.md) | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EB%85%B8%EB%AC%98%5D+01+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
-| 2 | 마우스·키보드 익숙해지기 | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EB%85%B8%EB%AC%98%5D+02+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
-| 3 | 인터넷 들어가기 (브라우저 한 개만) | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EB%85%B8%EB%AC%98%5D+03+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
-| 4 | 글자 키워서 보기 | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EB%85%B8%EB%AC%98%5D+04+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
-| 5 | 주민등록증으로 정부24 들어가기 | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EB%85%B8%EB%AC%98%5D+05+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
-| 6 | 카카오톡 PC 버전 설치 | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EB%85%B8%EB%AC%98%5D+06+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
-| 7 | 안전하게 비밀번호 만들기 | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EB%85%B8%EB%AC%98%5D+07+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
-| 8 | 의심 메일·문자 거르기 (보이스피싱·스미싱) | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EB%85%B8%EB%AC%98%5D+08+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
+| 0 | [준비물](./00-준비물.md) | ✅ |
+| 1 | [컴퓨터 처음 켜기와 끌기](./01-처음-켜기.md) | ✅ |
+| 2 | [마우스·키보드 익숙해지기](./02-마우스-키보드.md) | ✅ |
+| 3 | [인터넷 들어가기 (브라우저 한 개만)](./03-인터넷.md) | ✅ |
+| 4 | [글자 키워서 보기](./04-글자-키우기.md) | ✅ |
+| 5 | [주민등록증으로 정부24 들어가기](./05-정부24.md) | ✅ |
+| 6 | [카카오톡 PC 버전 설치](./06-카카오톡-PC.md) | ✅ |
+| 7 | [안전하게 비밀번호 만들기](./07-비밀번호.md) | ✅ |
+| 8 | [의심 메일·문자 거르기 (보이스피싱·스미싱)](./08-피싱-거르기.md) | ✅ |
 
 ## 학습 원칙
 

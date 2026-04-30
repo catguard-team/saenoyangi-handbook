@@ -8,13 +8,13 @@
 
 | 챕터 | 제목 | 상태 |
 |------|------|------|
-| 0 | [준비물](./00-준비물.md) | ✅ 작성됨 |
-| 1 | 첫 화면에 글자 띄우기 | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EC%96%B4%EB%A6%B0%EC%9D%B4%5D+01+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
-| 2 | 색깔과 도형 그리기 | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EC%96%B4%EB%A6%B0%EC%9D%B4%5D+02+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
-| 3 | 버튼 누르면 무슨 일 일어나기 | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EC%96%B4%EB%A6%B0%EC%9D%B4%5D+03+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
-| 4 | 숫자 알아맞히기 게임 | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EC%96%B4%EB%A6%B0%EC%9D%B4%5D+04+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
-| 5 | 내가 만든 거 친구한테 보여주기 (배포) | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EC%96%B4%EB%A6%B0%EC%9D%B4%5D+05+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
-| 6 | 첫 쥐돌이 자랑하기 ([jwidori](https://github.com/catguard-team/jwidori) 등록) | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EC%96%B4%EB%A6%B0%EC%9D%B4%5D+06+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
+| 0 | [준비물](./00-준비물.md) | ✅ |
+| 1 | [첫 화면에 글자 띄우기](./01-첫-화면에-글자-띄우기.md) | ✅ |
+| 2 | [색깔과 도형 그리기](./02-색깔과-도형-그리기.md) | ✅ |
+| 3 | [버튼 누르면 무슨 일 일어나기](./03-버튼-누르면-무슨-일-일어나기.md) | ✅ |
+| 4 | [숫자 알아맞히기 게임](./04-숫자-알아맞히기-게임.md) | ✅ |
+| 5 | [내가 만든 거 친구한테 보여주기 (배포)](./05-내가-만든-거-친구한테-보여주기.md) | ✅ |
+| 6 | [첫 쥐돌이 자랑하기 ([jwidori](https://github.com/catguard-team/jwidori) 등록)](./06-첫-쥐돌이-자랑하기.md) | ✅ |
 
 ## 학습 원칙
 

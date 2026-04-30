@@ -4,17 +4,17 @@
 
 안녕하세요. "정상" 코딩 환경이라는 건 없다고 봅니다. 본인 방식이 맞는 환경입니다.
 
-## 학습 순서 (예정)
+## 학습 순서
 
 | 챕터 | 제목 | 상태 |
 |------|------|------|
-| 0 | 준비물 — 본인의 보조기기 점검 | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EC%A0%91%EA%B7%BC%EC%84%B1%5D+00+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
-| 1 | macOS·Windows 화면읽기 (VoiceOver / 내레이터) 켜기 | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EC%A0%91%EA%B7%BC%EC%84%B1%5D+01+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
-| 2 | 한 손 키보드 / 음성 코딩 (talon, Cursorless) 입문 | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EC%A0%91%EA%B7%BC%EC%84%B1%5D+02+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
-| 3 | 큰 글씨 + 고대비 화면 셋업 | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EC%A0%91%EA%B7%BC%EC%84%B1%5D+03+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
-| 4 | 자막 자동 생성 도구로 강의 영상 보기 | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EC%A0%91%EA%B7%BC%EC%84%B1%5D+04+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
-| 5 | 내가 만든 웹사이트 접근성 점수 매기기 | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EC%A0%91%EA%B7%BC%EC%84%B1%5D+05+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
-| 6 | 접근성 자체를 첫 쥐돌이로 만들기 (이슈 발견 → PR) | 🚧 [📝 작성 신청](https://github.com/catguard-team/saenoyangi-handbook/issues/new?title=%5B%EC%A0%91%EA%B7%BC%EC%84%B1%5D+06+%EC%9E%91%EC%84%B1+%EC%8B%A0%EC%B2%AD) |
+| 0 | [준비물 — 본인의 보조기기 점검](./00-준비물.md) | ✅ |
+| 1 | [macOS·Windows 화면읽기 (VoiceOver / 내레이터) 켜기](./01-화면읽기.md) | ✅ |
+| 2 | [한 손 키보드 / 음성 코딩 (Talon, Cursorless) 입문](./02-음성-코딩.md) | ✅ |
+| 3 | [큰 글씨 + 고대비 화면 셋업](./03-큰글씨-고대비.md) | ✅ |
+| 4 | [자막 자동 생성 도구로 강의 영상 보기](./04-자막.md) | ✅ |
+| 5 | [내가 만든 웹사이트 접근성 점수 매기기](./05-접근성-점수.md) | ✅ |
+| 6 | [접근성 자체를 첫 쥐돌이로 만들기 (이슈 발견 → PR)](./06-접근성-쥐돌이.md) | ✅ |
 
 ## 학습 원칙
 
