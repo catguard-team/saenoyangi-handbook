@@ -101,7 +101,7 @@ GitHub에선 한 주제마다 **레포** 하나. 자경단 레포 6개 + 강의 
 
 | 레포 | 무엇 |
 |------|------|
-| [`manifesto`](https://github.com/catguard-team/manifesto) | 자경단 헌법·매니페스토·안전 정책 |
+| [`manifesto`](https://github.com/catguard-team/manifesto) | 자경단 행동 약속·매니페스토·안전 정책 |
 | [`saenoyangi-handbook`](https://github.com/catguard-team/saenoyangi-handbook) | 새끼고양이 학습 가이드 (이 가이드 포함) |
 | [`kkulzam-spot`](https://github.com/catguard-team/kkulzam-spot) | 자경단원이 발견한 꿀팁 |
 | [`jwidori`](https://github.com/catguard-team/jwidori) | 첫 쥐돌이(첫 작품) 갤러리 |

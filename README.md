@@ -104,7 +104,7 @@
 
 관련 레포:
 - 🐾 이 레포 (`saenoyangi-handbook`) — 4트랙 + GitHub 가이드 + 안전 노트
-- 📜 [`manifesto`](https://github.com/catguard-team/manifesto) — 자경단 헌법·안전 정책 원전
+- 📜 [`manifesto`](https://github.com/catguard-team/manifesto) — 자경단 행동 약속·안전 정책 원전
 - 🍯 [`kkulzam-spot`](https://github.com/catguard-team/kkulzam-spot) — 학습 중 막힌 때 꿀잠 스팟 검색
 - 🐭 [`jwidori`](https://github.com/catguard-team/jwidori) — 첫 결과물 자랑하고 싶을 때
 
