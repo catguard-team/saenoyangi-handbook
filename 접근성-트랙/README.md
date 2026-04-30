@@ -31,12 +31,18 @@
 - 접근성은 **새끼고양이의 권리**라고 봅니다. 시혜가 아닙니다 ([`MANIFESTO`](https://github.com/catguard-team/manifesto/blob/main/MANIFESTO.md)).
 - 외부 자료는 한국어를 우선하지만, 영어가 더 풍부한 영역입니다. 양쪽 다 안내해 주세요.
 
-## 참고 자료 (자경단 검증 안 됨, 출처 표시용)
+## 참고 자료
 
-- [한국웹접근성평가센터](https://www.wa.or.kr) — 정부 운영
-- [ACCESSIBILITY 한국 커뮤니티](https://accessibility.kr) (있으시면 채워주세요)
+### 한국어 자료 모음
+
+📌 [`한국어-자료.md`](./한국어-자료.md) — 한국 정부·공공기관, 시각·청각·운동·인지 접근성, 한국어 코딩 자료를 한 곳에 정리한 인덱스입니다.
+
+### 영어 자료 (자경단 검증 안 됨, 출처 표시용)
+
 - [Talon Voice](https://talonvoice.com) — 음성 코딩
 - [W3C WAI](https://www.w3.org/WAI/)
+- [Cursorless](https://cursorless.org) — 음성 + VS Code 코드 편집
+- [WebAIM](https://webaim.org) — 웹 접근성 자료의 표준
 
 ---
 
